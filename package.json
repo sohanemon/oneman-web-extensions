@@ -1,6 +1,8 @@
 {
   "name": "oneman-web-extensions",
   "displayName": "OneMan Web Extensions",
+  "publisher": "SohanEmon",
+  "icon": "",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -9,7 +11,10 @@
   "categories": [
     "Extension Packs"
   ],
-  "extensionPack": [ 
-    "publisher.extensionName"
-  ]
+  "extensionPack": [
+    "esbenp.prettier-vscode"
+  ],
+  "dependencies": {
+    "vsce": "^2.15.0"
+  }
 }
