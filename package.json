@@ -16,7 +16,19 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "esbenp.prettier-vscode"
+    "esbenp.prettier-vscode",
+    "ritwickdey.liveserver",
+    "dbaeumer.vscode-eslint",
+    "christian-kohler.path-intellisense",
+    "christian-kohler.npm-intellisense",
+    "moalamri.inline-fold",
+    "eamodio.gitlens",
+    "robbowen.synthwave-vscode",
+    "cardinal90.multi-cursor-case-preserve",
+    "mongodb.mongodb-vscode",
+    "styled-components.vscode-styled-components",
+    "blanu.vscode-styled-jsx",
+    "leodriesch.paste-html-as-jsx"
   ],
   "dependencies": {
     "vsce": "^2.15.0"
