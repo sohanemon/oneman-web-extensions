@@ -8,7 +8,7 @@
   },
   "icon": "assets/icon.png",
   "description": "",
-  "version": "0.1.0",
+  "version": "0.2.2",
   "engines": {
     "vscode": "^1.77.0"
   },
@@ -19,16 +19,23 @@
     "esbenp.prettier-vscode",
     "ritwickdey.liveserver",
     "dbaeumer.vscode-eslint",
+    "formulahendry.auto-rename-tag",
     "christian-kohler.path-intellisense",
     "christian-kohler.npm-intellisense",
     "moalamri.inline-fold",
     "eamodio.gitlens",
+    "streetsidesoftware.code-spell-checker",
+    "pkief.material-icon-theme",
     "robbowen.synthwave-vscode",
     "cardinal90.multi-cursor-case-preserve",
     "mongodb.mongodb-vscode",
     "styled-components.vscode-styled-components",
     "blanu.vscode-styled-jsx",
-    "leodriesch.paste-html-as-jsx"
+    "leodriesch.paste-html-as-jsx",
+    "visualstudioexptteam.intellicode-api-usage-examples",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "formulahendry.auto-close-tag",
+    "bradlc.vscode-tailwindcss"
   ],
   "dependencies": {
     "vsce": "^2.15.0"
