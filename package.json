@@ -9,7 +9,7 @@
   "icon": "assets/icon.png",
   "description": "",
   "license": "none",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "engines": {
     "vscode": "^1.77.0"
   },
@@ -39,10 +39,12 @@
     "stackbreak.comment-divider",
     "leodriesch.paste-html-as-jsx",
     "vincaslt.highlight-matching-tag",
+    "meganrogge.template-string-converter",
     "visualstudioexptteam.intellicode-api-usage-examples",
     "VisualStudioExptTeam.vscodeintellicode",
     "formulahendry.auto-close-tag",
-    "bradlc.vscode-tailwindcss"
+    "bradlc.vscode-tailwindcss",
+    "rangav.vscode-thunder-client"
   ],
   "dependencies": {
     "vsce": "^2.15.0"
